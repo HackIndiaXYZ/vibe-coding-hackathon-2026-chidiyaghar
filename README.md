@@ -7,12 +7,9 @@ A high-performance, offline-first AI translation application built with Flutter 
 Watch the on-device AI translation pipeline in action (Whisper speech-to-text -> Gemma translation):
 
 <div align="center">
-  <!-- Embedded Video Player -->
-  <video src="https://docs.google.com/uc?export=download&id=13aihttE4fNgCi28ZGY8c1RdxFKr4YEsk" width="100%" style="max-width: 640px; border-radius: 12px;" poster="assets/promo_1024.png" controls>
-    <a href="https://drive.google.com/file/d/13aihttE4fNgCi28ZGY8c1RdxFKr4YEsk/view?usp=sharing">
-      <img src="assets/promo_1024.png" width="100%" style="max-width: 640px; border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.4);" alt="Click to Watch Demo Video" />
-    </a>
-  </video>
+  <a href="https://drive.google.com/file/d/13aihttE4fNgCi28ZGY8c1RdxFKr4YEsk/view?usp=sharing">
+    <img src="assets/promo_1024.png" width="100%" style="max-width: 640px; border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.4);" alt="Watch the Demo Video" />
+  </a>
   <br />
   <a href="https://drive.google.com/file/d/13aihttE4fNgCi28ZGY8c1RdxFKr4YEsk/view?usp=sharing">
     <strong>⚡ Click here to watch the full demo video on Google Drive ⚡</strong>
