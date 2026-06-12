@@ -1,4 +1,4 @@
-# Antigravity AI Translator 🚀
+# OFFLINE AI Translator 🚀
 
 A high-performance, offline-first AI translation application built with Flutter and C++. This app leverages on-device AI (Whisper for speech-to-text and Gemma for translation) to provide real-time, private, and blazing-fast multilingual communication.
 
