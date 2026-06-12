@@ -8,13 +8,14 @@ Watch the on-device AI translation pipeline in action (Whisper speech-to-text ->
 
 <div align="center">
   <a href="https://drive.google.com/file/d/13aihttE4fNgCi28ZGY8c1RdxFKr4YEsk/view?usp=sharing">
-    <img src="assets/promo_1024.png" width="100%" style="max-width: 640px; border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.4);" alt="Watch the Demo Video" />
+    <img src="assets/promo_1024.png" width="640" alt="Watch the Demo Video" />
   </a>
-  <br />
+  <br /><br />
   <a href="https://drive.google.com/file/d/13aihttE4fNgCi28ZGY8c1RdxFKr4YEsk/view?usp=sharing">
     <strong>⚡ Click here to watch the full demo video on Google Drive ⚡</strong>
   </a>
 </div>
+
 
 ## 🔄 System Architecture & Data Flow
 
